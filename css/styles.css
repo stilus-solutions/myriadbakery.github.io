@@ -1,0 +1,27 @@
+body  {
+  background-color: white; /* e9e9e9 */
+}
+
+h1 {
+  font-family: 'Zen Dots', cursive;
+  text-transform: uppercase;
+  font-size: 3rem;
+  color: #875da3;
+}
+
+.main_d {
+  width:100%;
+  text-align:center;
+  margin:0 auto;
+  padding-top: 20pt;
+}
+
+.mlink {
+  color:#875da3;
+  font-size:3rem;
+}
+
+.mlink:hover {
+  color: #875da3;
+  transition: 0.2s;
+}
